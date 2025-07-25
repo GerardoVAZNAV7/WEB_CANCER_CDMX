@@ -1,0 +1,35 @@
+codigo,descripcion
+1,"Funcionarios, directores y jefes"
+2,Profesionistas y tecnicos
+11,No trabaja
+3,Trabajadores auxiliares en actividades administrativas
+13,Trabajadores de la educacion
+14,"Trabajadores del arte, deportes y espectaculos"
+21,Funcionarios y directivos
+41,"Trabajadores en actividades agricolas, ganaderas, caza y pesca"
+51,Personal de control en el proceso de produccion industrial
+52,Trabajadores en la industria de la transformacion
+53,Operadores de maquinaria fija
+54,Ayudantes en el proceso de produccion industrial y artesanal
+55,Conductores de maquinaria movil y medios de transporte
+61,Trabajadores administrativos de nivel intermedio
+62,Trabajadores administrativos de nivel inferior
+71,"Comerciantes, empleados de comercio y agentes de ventas"
+72,Vendedores ambulantes
+81,Trabajadores en servicios personales en establecimientos
+96,"Trabajadores domesticos, de limpieza, planchadores y otros trabajadores de limpieza"
+83,"Trabajadores de fuerzas armadas, proteccion y vigilancia"
+97,No aplica a menores de 12 años
+98,Insuficientemente especificada
+99,No especificada
+4,"Comerciantes, empleados en ventas y agentes de ventas"
+5,Trabajadores en servicios personales y vigilancia
+6,"Trabajadores en actividades agricolas, ganaderas, forestales, caza y pesca"
+7,Trabajadores artesanales
+8,"Operadores de maquinaria industrial, ensambladores, choferes y conductores de transporte"
+9,Trabajadores en actividades elementales y de apoyo
+10,Busca trabajo
+1000,"Trabajadores de paqueteria, de apoyo para espectaculos, mensajeros y repartidores de mercancias"
+1001,"Otros trabajadores en actividades elementales y de apoyo, no clasificados anteriormente"
+1002,Ocupaciones no especificadas
+82,"Ensambladores y montadores de herramientas, maquinaria, productos metalicos y electronicos"
